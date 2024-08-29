@@ -1,98 +1,135 @@
 [
-    {
-      "rank": 1,
-      "word": "assembly",
-      "bangla_meaning": "সমাবেশ"
-    },
-    {
-      "rank": 2,
-      "word": "Constitution",
-      "bangla_meaning": "সংবিধান"
-    },
-    {
-      "rank": 3,
-      "word": "Torture",
-      "bangla_meaning": "অত্যাচার, নিপীড়ন"
-    },
-    {
-      "rank": 4,
-      "word": "Regret",
-      "bangla_meaning": "অনুতাপ, অনুশোচনা"
-    },
-    {
-      "rank": 5,
-      "word": "Tragic",
-      "bangla_meaning": "বিয়োগান্তক"
-    },
-    {
-      "rank": 6,
-      "word": "Inflict",
-      "bangla_meaning": "(আঘাত ইত্যাদি) প্রদান করা"
-    },
-    {
-      "rank": 7,
-      "word": "Agony",
-      "bangla_meaning": "তীব্র যন্ত্রণা, মর্ম বেদনা"
-    },
-    {
-      "rank": 8,
-      "word": "Waste",
-      "bangla_meaning": "আবর্জনা"
-    },
-    {
-      "rank": 9,
-      "word": "Bounty",
-      "bangla_meaning": "উদারতা, অকৃত্রিম দান"
-    },
-    {
-      "rank": 10,
-      "word": "Suck",
-      "bangla_meaning": "চুষে নেওয়া"
-    },
-    {
-      "rank": 11,
-      "word": "Toxic",
-      "bangla_meaning": "বিষাক্ত"
-    },
-    {
-      "rank": 12,
-      "word": "Dump",
-      "bangla_meaning": "ফেলে দেওয়া"
-    },
-    {
-      "rank": 13,
-      "word": "Discharge",
-      "bangla_meaning": "নির্গত করা"
-    },
-    {
-      "rank": 14,
-      "word": "Directly",
-      "bangla_meaning": "সরাসরি"
-    },
-    {
-      "rank": 15,
-      "word": "Release",
-      "bangla_meaning": "ত্যাগ করা"
-    },
-    {
-      "rank": 16,
-      "word": "Expert",
-      "bangla_meaning": "বিশেষজ্ঞ"
-    },
-    {
-      "rank": 17,
-      "word": "Primary",
-      "bangla_meaning": "প্রাথমিক"
-    },
-    {
-      "rank": 18,
-      "word": "Digest",
-      "bangla_meaning": "হজম করা"
-    },
-    {
-      "rank": 19,
-      "word": "Mention",
-      "bangla_meaning": "উল্লেখ করা"
-    }
-  ]
-  
+  {
+    "rank": 1,
+    "word": "assembly",
+    "bangla_meaning": "সমাবেশ",
+    "synonyms": "congregation, gathering",
+    "antonyms": "dispersal, separation"
+  },
+  {
+    "rank": 2,
+    "word": "Constitution",
+    "bangla_meaning": "সংবিধান",
+    "synonyms": "charter, framework",
+    "antonyms": "lawlessness, anarchy"
+  },
+  {
+    "rank": 3,
+    "word": "Torture",
+    "bangla_meaning": "অত্যাচার, নিপীড়ন",
+    "synonyms": "torment, anguish",
+    "antonyms": "comfort, relief"
+  },
+  {
+    "rank": 4,
+    "word": "Regret",
+    "bangla_meaning": "অনুতাপ, অনুশোচনা, আক্ষেপ, আফসোস করা",
+    "synonyms": "remorse, sorrow",
+    "antonyms": "satisfaction, contentment"
+  },
+  {
+    "rank": 5,
+    "word": "Tragic",
+    "bangla_meaning": "বিয়োগান্তক",
+    "synonyms": "heartbreaking, calamitous",
+    "antonyms": "joyous, triumphant"
+  },
+  {
+    "rank": 6,
+    "word": "Inflict",
+    "bangla_meaning": "(আঘাত ইত্যাদি) প্রদান করা",
+    "synonyms": "impose, administer",
+    "antonyms": "withhold, withdraw"
+  },
+  {
+    "rank": 7,
+    "word": "Agony",
+    "bangla_meaning": "তীব্র যন্ত্রণা, মর্ম বেদনা",
+    "synonyms": "misery, suffering",
+    "antonyms": "joy, happiness"
+  },
+  {
+    "rank": 8,
+    "word": "Waste",
+    "bangla_meaning": "আবর্জনা",
+    "synonyms": "trash, refuse",
+    "antonyms": "treasure, valuable"
+  },
+  {
+    "rank": 9,
+    "word": "Bounty",
+    "bangla_meaning": "উদারতা, অকৃত্রিম দান",
+    "synonyms": "reward, generosity",
+    "antonyms": "penalty, scarcity"
+  },
+  {
+    "rank": 10,
+    "word": "Suck",
+    "bangla_meaning": "চুষে নেওয়া",
+    "synonyms": "draw, extract",
+    "antonyms": "repel, release"
+  },
+  {
+    "rank": 11,
+    "word": "Toxic",
+    "bangla_meaning": "বিষাক্ত",
+    "synonyms": "poisonous, harmful",
+    "antonyms": "harmless, safe"
+  },
+  {
+    "rank": 12,
+    "word": "Dump",
+    "bangla_meaning": "ফেলে দেওয়া",
+    "synonyms": "discard, dispose",
+    "antonyms": "keep, retain"
+  },
+  {
+    "rank": 13,
+    "word": "Discharge",
+    "bangla_meaning": "নির্গত করা",
+    "synonyms": "release, emit",
+    "antonyms": "absorb, retain"
+  },
+  {
+    "rank": 14,
+    "word": "Directly",
+    "bangla_meaning": "সরাসরি",
+    "synonyms": "straightforwardly, immediately",
+    "antonyms": "indirectly, circuitously"
+  },
+  {
+    "rank": 15,
+    "word": "Release",
+    "bangla_meaning": "ত্যাগ করা",
+    "synonyms": "free, liberate",
+    "antonyms": "capture, confine"
+  },
+  {
+    "rank": 16,
+    "word": "Expert",
+    "bangla_meaning": "বিশেষজ্ঞ",
+    "synonyms": "specialist, professional",
+    "antonyms": "amateur, novice"
+  },
+  {
+    "rank": 17,
+    "word": "Primary",
+    "bangla_meaning": "প্রাথমিক",
+    "synonyms": "basic, fundamental",
+    "antonyms": "secondary, advanced"
+  },
+  {
+    "rank": 18,
+    "word": "Digest",
+    "bangla_meaning": "হজম করা",
+    "synonyms": "assimilate, process",
+    "antonyms": "exude, reject"
+  },
+  {
+    "rank": 19,
+    "word": "Mention",
+    "bangla_meaning": "উল্লেখ করা",
+    "synonyms": "cite, reference",
+    "antonyms": "ignore, omit"
+  }
+]

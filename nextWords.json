@@ -131,5 +131,110 @@
     "bangla_meaning": "উল্লেখ করা",
     "synonyms": "cite, reference",
     "antonyms": "ignore, omit"
+  },
+  {
+    "rank": 20,
+    "word": "Debt",
+    "bangla_meaning": "ঋণ, ধার",
+    "synonyms": "loan, liability",
+    "antonyms": "asset, profit"
+  },
+  {
+    "rank": 21,
+    "word": "Addiction",
+    "bangla_meaning": "আসক্তি",
+    "synonyms": "obsession, dependence",
+    "antonyms": "detachment, sobriety"
+  },
+  {
+    "rank": 22,
+    "word": "Compulsive",
+    "bangla_meaning": "বাধ্যতামূলক, নেশার মতো পেয়ে বসে এমন",
+    "synonyms": "irresistible, uncontrollable",
+    "antonyms": "resistible, avoidable"
+  },
+  {
+    "rank": 23,
+    "word": "Entertain",
+    "bangla_meaning": "চিত্ত বিনোদন করা",
+    "synonyms": "amuse, delight",
+    "antonyms": "bore, displease"
+  },
+  {
+    "rank": 24,
+    "word": "Financial",
+    "bangla_meaning": "আর্থিক",
+    "synonyms": "economic, monetary",
+    "antonyms": "non-financial, uneconomic"
+  },
+  {
+    "rank": 25,
+    "word": "Invest",
+    "bangla_meaning": "বিনিয়োগ",
+    "synonyms": "allocate, commit",
+    "antonyms": "withdraw, divest"
+  },
+  {
+    "rank": 26,
+    "word": "Means",
+    "bangla_meaning": "আর্থিক সক্ষমতা",
+    "synonyms": "resources, income",
+    "antonyms": "poverty, insufficiency"
+  },
+  {
+    "rank": 27,
+    "word": "Overspend",
+    "bangla_meaning": "অতিরিক্ত ব্যয় করা",
+    "synonyms": "squander, splurge",
+    "antonyms": "save, conserve"
+  },
+  {
+    "rank": 28,
+    "word": "Psychological",
+    "bangla_meaning": "মানসিক",
+    "synonyms": "mental, emotional",
+    "antonyms": "physical, bodily"
+  },
+  {
+    "rank": 29,
+    "word": "Ruin",
+    "bangla_meaning": "ধ্বংস",
+    "synonyms": "destruction, downfall",
+    "antonyms": "construction, restoration"
+  },
+  {
+    "rank": 30,
+    "word": "Rush",
+    "bangla_meaning": "দ্রুত করা",
+    "synonyms": "hurry, hasten",
+    "antonyms": "delay, dawdle"
+  },
+  {
+    "rank": 31,
+    "word": "Spending",
+    "bangla_meaning": "ব্যয়, খরচ",
+    "synonyms": "expenditure, outlay",
+    "antonyms": "saving, earning"
+  },
+  {
+    "rank": 32,
+    "word": "Attitude",
+    "bangla_meaning": "আচরণ",
+    "synonyms": "outlook, perspective",
+    "antonyms": "indifference, neutrality"
+  },
+  {
+    "rank": 33,
+    "word": "Consumer",
+    "bangla_meaning": "ভোক্তা",
+    "synonyms": "buyer, customer",
+    "antonyms": "seller, producer"
+  },
+  {
+    "rank": 34,
+    "word": "Constantly",
+    "bangla_meaning": "অবিরত",
+    "synonyms": "continuously, perpetually",
+    "antonyms": "occasionally, intermittently"
   }
 ]
